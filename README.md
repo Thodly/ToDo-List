@@ -8,4 +8,5 @@ In this application you can:
 -edit a task (with a single click, that will open another activity to make the change)
 
 this is a link to the ToDo List gif
-https://github.com/Thodly/ToDo-List/blob/master/SimpleToDoList.gif
+
+<img src='https://github.com/Thodly/ToDo-List/blob/master/SimpleToDoList.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
